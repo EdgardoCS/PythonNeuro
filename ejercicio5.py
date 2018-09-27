@@ -1,11 +1,4 @@
-#Escribir una función que tome un caracter (un texto de largo 1) 
-#como argumento y devuelva True si es una vocal, False si no lo es.
-
-# a = 1
-# e = 5
-# i = 9
-# o = 16
-# u = 22
+x = input('ingrese letra a evaluar: ')
 
 def vocalmatic3000(x):
     
@@ -14,4 +7,4 @@ def vocalmatic3000(x):
     else: 
         print(False,';', x, 'es consonante')
 
-vocalmatic3000('b')
+vocalmatic3000(x)

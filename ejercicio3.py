@@ -1,4 +1,6 @@
-n = 30
+n = input('ingrese valor de n: ')
+
+n = int(n)
 
 divisores = []
 

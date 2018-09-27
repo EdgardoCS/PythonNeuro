@@ -1,4 +1,8 @@
-# change this code
+# a = input('ingrese number: ')
+# b = input('ingrese second_number: ')
+# c = input('ingrese first_array: ')
+# d = input('ingrese second_array')
+
 number = 20
 second_number = 0
 first_array = [1,2,3]
